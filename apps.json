@@ -1,34 +1,59 @@
 {
+  "version": "1.0",
   "apps": [
     {
       "name": "notes",
       "title": "Notes",
       "description": "Write and save your thoughts",
+      "long_description": "A minimal and fast note-taking app with instant saving and clean UI.",
       "category": "utility",
+      "tags": ["notes", "productivity"],
       "version": "1.0.0",
       "author": "ziobra",
-      "repo": "https://github.com/yourname/ziobra-notes/archive/refs/heads/main.zip",
-      "icon": "https://raw.githubusercontent.com/yourname/ziobra-store/main/icons/notes.png"
+      "repo": "https://github.com/leftik1/ziobra-notes/archive/refs/heads/main.zip",
+      "icon": "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/notes/icon.png",
+      "images": [
+        "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/notes/1.png",
+        "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/notes/2.png"
+      ],
+      "requirements": [],
+      "entry": "notes"
     },
+
     {
       "name": "calculator",
       "title": "Calculator",
       "description": "Simple calculator",
+      "long_description": "Fast and responsive calculator for everyday use.",
       "category": "utility",
+      "tags": ["math", "tools"],
       "version": "1.0.0",
       "author": "ziobra",
-      "repo": "https://github.com/yourname/ziobra-calculator/archive/refs/heads/main.zip",
-      "icon": "https://raw.githubusercontent.com/yourname/ziobra-store/main/icons/calculator.png"
+      "repo": "https://github.com/leftik1/ziobra-calculator/archive/refs/heads/main.zip",
+      "icon": "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/calculator/icon.png",
+      "images": [
+        "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/calculator/1.png"
+      ],
+      "requirements": [],
+      "entry": "calculator"
     },
+
     {
       "name": "reaction",
       "title": "Reaction Game",
       "description": "Test your reaction speed",
+      "long_description": "Tap as fast as you can when the signal appears. Train your reflexes!",
       "category": "games",
+      "tags": ["game", "reaction"],
       "version": "1.0.0",
       "author": "ziobra",
-      "repo": "https://github.com/yourname/ziobra-reaction/archive/refs/heads/main.zip",
-      "icon": "https://raw.githubusercontent.com/yourname/ziobra-store/main/icons/reaction.png"
+      "repo": "https://github.com/leftik1/ziobra-reaction/archive/refs/heads/main.zip",
+      "icon": "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/reaction/icon.png",
+      "images": [
+        "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/reaction/1.png"
+      ],
+      "requirements": [],
+      "entry": "reaction"
     }
   ]
 }
