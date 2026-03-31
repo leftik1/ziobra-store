@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "name": "notes",
+      "title": "Notes",
+      "description": "Write and save your thoughts",
+      "category": "utility",
+      "version": "1.0.0",
+      "author": "ziobra",
+      "repo": "https://github.com/yourname/ziobra-notes/archive/refs/heads/main.zip",
+      "icon": "https://raw.githubusercontent.com/yourname/ziobra-store/main/icons/notes.png"
+    },
+    {
+      "name": "calculator",
+      "title": "Calculator",
+      "description": "Simple calculator",
+      "category": "utility",
+      "version": "1.0.0",
+      "author": "ziobra",
+      "repo": "https://github.com/yourname/ziobra-calculator/archive/refs/heads/main.zip",
+      "icon": "https://raw.githubusercontent.com/yourname/ziobra-store/main/icons/calculator.png"
+    },
+    {
+      "name": "reaction",
+      "title": "Reaction Game",
+      "description": "Test your reaction speed",
+      "category": "games",
+      "version": "1.0.0",
+      "author": "ziobra",
+      "repo": "https://github.com/yourname/ziobra-reaction/archive/refs/heads/main.zip",
+      "icon": "https://raw.githubusercontent.com/yourname/ziobra-store/main/icons/reaction.png"
+    }
+  ]
+}
