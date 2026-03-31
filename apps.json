@@ -8,7 +8,7 @@
       "long_description": "A minimal and fast note-taking app with instant saving and clean UI.",
       "category": "utility",
       "tags": ["notes", "productivity"],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "ziobra",
       "repo": "https://github.com/leftik1/ziobra-notes/raw/refs/heads/main/ziobra-notes.zip",
       "icon": "https://raw.githubusercontent.com/leftik1/ziobra-store/main/assets/notes/icon.png",
